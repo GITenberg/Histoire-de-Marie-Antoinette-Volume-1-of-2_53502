@@ -1,0 +1,26 @@
+_repo: Histoire-de-Marie-Antoinette-Volume-1-of-2_53502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Rocheterie, Maxime de
+    alias: Rocheterie, Maxime de la
+    birthdate: 1837
+    deathdate: 1917
+    gutenberg_agent_id: '47406'
+    url: http://www.gutenberg.org/2009/agents/47406
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53502'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793'
+- GITenberg
+title: Histoire de Marie-Antoinette, Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/53502
